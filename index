@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Joe's Delights</title>
+</head>
+<body>
+  <h1>Bienvenido a Joe's Delights</h1>
+  <p>Delicias caseras compartidas desde Instagram.</p>
+  <a href="https://www.instagram.com/deliciasdejoe" target="_blank">Visítanos en Instagram</a>
+</body>
+</html>
